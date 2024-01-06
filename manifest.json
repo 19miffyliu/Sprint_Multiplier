@@ -1,0 +1,9 @@
+{
+  "name": "Sprint_Multiplier",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/19miffyliu/Sprint_Multiplier",
+  "description": "Let you change the running & walking speed.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
